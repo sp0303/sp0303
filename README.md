@@ -1,6 +1,6 @@
 # Hi 👋, I'm Sharat
 
-### 🚀 Platform Engineer | AI & ML Enthusiast
+### 🚀 Software Engineer | AI & ML Enthusiast
 
 Building scalable platforms and intelligent systems — from full-stack applications to AI/ML integrations, model training, and fine-tuning.
 
@@ -8,7 +8,7 @@ Building scalable platforms and intelligent systems — from full-stack applicat
 
 ## 👨‍💻 About Me
 
-* 🔧 Platform Engineer with **2+ years of experience**
+* 🔧 Software Engineer with **2+ years of experience**
 * 🤖 Focused on **AI-driven systems & real-world applications**
 * ⚡ Strong in **backend engineering + intelligent automation**
 * 🌐 Experienced in building **scalable, production-grade systems**

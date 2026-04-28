@@ -1,86 +1,88 @@
 # Hi 👋, I'm Sharat
 
-### 🚀 Software Engineer | AI & ML Enthusiast
+### 🚀 Independent Developer | Backend Systems | Exploring AI/ML
 
-Building scalable platforms and intelligent systems — from full-stack applications to AI/ML integrations, model training, and fine-tuning.
+I build **scalable, real-world systems end-to-end** — from backend architecture to intelligent features.  
+Currently focused on **learning and applying AI/ML in production-oriented applications**.
 
 ---
 
 ## 👨‍💻 About Me
 
-* 🔧 Software Engineer with **2+ years of experience**
-* 🤖 Focused on **AI-driven systems & real-world applications**
-* ⚡ Strong in **backend engineering + intelligent automation**
-* 🌐 Experienced in building **scalable, production-grade systems**
+* 🛠️ **Independent Developer** building complete applications from scratch  
+* ⚡ Strong in **backend engineering and system design**  
+* 🤖 Actively learning and applying **AI/ML in real-world use cases**  
+* 🌐 Interested in **scalable systems, real-time processing, and automation**  
+
+---
+
+## 🧠 What I Do
+
+* 🚀 Build **end-to-end applications (frontend + backend + logic)**  
+* ⚙️ Design **reliable backend systems and APIs**  
+* 🔄 Work on **data-driven features and automation**  
+* 🤖 Experiment with **AI/ML models and integrations**  
 
 ---
 
 ## 🛠️ Tech Stack
 
-| Category      | Technologies                                       |
-| ------------- | -------------------------------------------------- |
-| 💻 Languages  | Python, Java, C, SQL                               |
-| ⚙️ Backend    | Flask, FastAPI, Spring Boot, Express               |
-| 🗄️ Databases | PostgreSQL, MongoDB                                |
-| 🤖 AI / ML    | PyTorch, Hugging Face, Model Training, Fine-tuning |
-| 🎨 Frontend   | React                                              |
+| Category      | Technologies |
+| ------------- | ------------ |
+| 💻 Languages  | Python, Java, SQL |
+| ⚙️ Backend    | FastAPI, Flask, Spring Boot |
+| 🗄️ Databases | PostgreSQL, MongoDB |
+| 🔄 Tools      | Docker |
+| 🤖 AI / ML    | PyTorch, Hugging Face (learning & experimenting) |
+| 🎨 Frontend   | React |
 
 ---
 
-## 🚀 Key Projects
+## 🚀 Projects
 
-### 🔹 AI-Powered Trading System
+### 🔹 AI-Based Trading System (Learning Project)
 
-* Designed a **multi-strategy trading engine** trained on **7 core strategies**:
+* Built a **multi-strategy trading system** combining:
+  * ORB, VWAP, Momentum, Relative Strength  
+  * Volume & volatility-based strategies  
 
-  * ORB (Opening Range Breakout)
-  * News Sentiment Analysis
-  * Social Sentiment Analysis
-  * VWAP Mean Reversion
-  * Intraday Momentum
-  * Relative Strength
-  * Volatility Squeeze Breakout
-  * Volume Spike Reversal
-  * Market Regime Classifier
-
-* 📊 Combines quantitative + AI-driven signals for decision making
-
-* 🤖 Integrated with **Gemma 4** for advanced AI-based market analysis
-
-* ⚡ Focus on **real-time processing, accuracy, and adaptability**
+* 📊 Explored combining **rule-based + AI-driven signals**  
+* 🤖 Integrated basic **LLM-based analysis (Gemma)**  
+* ⚡ Focused on **real-time data handling and system design**
 
 ---
 
 ### 🔹 AI E-commerce Platform
 
-* Implemented **AI-based recommendation systems**
-* Enhanced user engagement through **personalization models**
-* Integrated backend + ML pipelines for seamless experience
+* Developed **recommendation features** for better user experience  
+* Worked on **backend + data flow integration**  
+* Focused on building a **scalable application structure**
 
 ---
 
-### 🔹 AI Resume Analyzer
+### 🔹 Resume Analyzer
 
-* Built an **NLP-based resume parsing system**
-* Matches candidates with roles using **semantic analysis**
-* Automates screening with improved efficiency
+* Built an **NLP-based resume parsing tool**  
+* Implemented **basic semantic matching**  
+* Automated parts of the screening workflow  
 
 ---
 
 ## 📊 Stats
 
-* 🧑‍💼 Experience: **2+ Years**
-* ⚙️ Core Strength: **Backend Systems + AI Integration**
-* 🚀 Focus: **Scalable Systems | Intelligent Automation | ML Applications**
+* 🧑‍💼 Experience: **2+ Years**  
+* ⚙️ Strength: **Backend Development + System Building**  
+* 🚀 Current Focus: **AI/ML + Real-World Applications**
 
 ---
 
 ## 🌐 Connect with Me
 
-* 💼 LinkedIn: https://www.linkedin.com/in/sharat-patnaik/
+* 💼 LinkedIn: https://www.linkedin.com/in/sharat-patnaik/  
+* 🕸️ Portfolio: https://sharatpatnayakuni.site  
 
 ---
 
 ## ⚡ Philosophy
 
-> Build systems that scale. Train models that learn. Deliver solutions that matter.
+> Build. Learn. Improve. Repeat.

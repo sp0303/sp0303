@@ -2,26 +2,25 @@
 
 ### 🚀 Independent Developer | Backend Systems | Exploring AI/ML
 
-I build **scalable, real-world systems end-to-end** — from backend architecture to intelligent features.  
-Currently focused on **learning and applying AI/ML in production-oriented applications**.
+I build **scalable, real-world systems end-to-end** — combining strong backend engineering with growing expertise in **AI/ML applications**.
 
 ---
 
 ## 👨‍💻 About Me
 
-* 🛠️ **Independent Developer** building complete applications from scratch  
-* ⚡ Strong in **backend engineering and system design**  
-* 🤖 Actively learning and applying **AI/ML in real-world use cases**  
-* 🌐 Interested in **scalable systems, real-time processing, and automation**  
+* 🛠️ **Independent Developer** building complete systems from idea → production  
+* ⚡ Strong in **backend systems & performance (Rust + Python)**  
+* 🔄 Experience with **real-time data flow and system design (Kafka, Redis)**  
+* 🤖 Currently exploring **AI/ML and integrating it into real applications**  
 
 ---
 
 ## 🧠 What I Do
 
-* 🚀 Build **end-to-end applications (frontend + backend + logic)**  
-* ⚙️ Design **reliable backend systems and APIs**  
-* 🔄 Work on **data-driven features and automation**  
-* 🤖 Experiment with **AI/ML models and integrations**  
+* 🚀 Build **end-to-end applications (frontend + backend + data flow)**  
+* ⚙️ Design **scalable backend systems and APIs**  
+* 🔄 Work with **real-time pipelines and data-driven logic**  
+* 🤖 Apply **AI/ML concepts into practical systems (learning stage)**  
 
 ---
 
@@ -29,50 +28,51 @@ Currently focused on **learning and applying AI/ML in production-oriented applic
 
 | Category      | Technologies |
 | ------------- | ------------ |
-| 💻 Languages  | Python, Java, SQL |
-| ⚙️ Backend    | FastAPI, Flask, Spring Boot |
+| 💻 Languages  | **Rust**, Python, Java, SQL |
+| ⚙️ Backend    | FastAPI, Flask, Spring Boot, Axum |
+| 🔄 Systems    | Kafka, Redis, Docker |
 | 🗄️ Databases | PostgreSQL, MongoDB |
-| 🔄 Tools      | Docker |
-| 🤖 AI / ML    | PyTorch, Hugging Face (learning & experimenting) |
-| 🎨 Frontend   | React |
+| 🤖 AI / ML    | PyTorch, Hugging Face, **Gemma** (learning & experimenting) |
+| 📊 Observability | Grafana (basics) |
+| 🎨 Frontend   | React, TypeScript |
 
 ---
 
 ## 🚀 Projects
 
-### 🔹 AI-Based Trading System (Learning Project)
+### 🔹 Trading System (Real-Time + Learning AI)
 
-* Built a **multi-strategy trading system** combining:
+* Built a **multi-strategy trading system** with rule-based strategies:
   * ORB, VWAP, Momentum, Relative Strength  
-  * Volume & volatility-based strategies  
+  * Volume & volatility-based signals  
 
-* 📊 Explored combining **rule-based + AI-driven signals**  
-* 🤖 Integrated basic **LLM-based analysis (Gemma)**  
-* ⚡ Focused on **real-time data handling and system design**
+* ⚡ Designed **real-time data handling flow (Kafka-style architecture)**  
+* 🧠 Experimented with **LLM-based insights (Gemma)**  
+* 🚀 Explored **performance improvements using Rust components**
 
 ---
 
 ### 🔹 AI E-commerce Platform
 
-* Developed **recommendation features** for better user experience  
-* Worked on **backend + data flow integration**  
-* Focused on building a **scalable application structure**
+* Implemented **basic recommendation logic**  
+* Built **backend-driven personalization flows**  
+* Focused on **scalable application design**
 
 ---
 
 ### 🔹 Resume Analyzer
 
-* Built an **NLP-based resume parsing tool**  
-* Implemented **basic semantic matching**  
-* Automated parts of the screening workflow  
+* Developed **NLP-based parsing system**  
+* Implemented **semantic matching (basic level)**  
+* Automated parts of candidate screening  
 
 ---
 
 ## 📊 Stats
 
 * 🧑‍💼 Experience: **2+ Years**  
-* ⚙️ Strength: **Backend Development + System Building**  
-* 🚀 Current Focus: **AI/ML + Real-World Applications**
+* ⚙️ Strength: **Backend Systems + Problem Solving**  
+* 🚀 Current Focus: **AI/ML + Real-Time Systems**
 
 ---
 
@@ -85,4 +85,4 @@ Currently focused on **learning and applying AI/ML in production-oriented applic
 
 ## ⚡ Philosophy
 
-> Build. Learn. Improve. Repeat.
+> Build strong systems first. Add intelligence next. Improve continuously.
